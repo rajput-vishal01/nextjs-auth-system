@@ -6,7 +6,6 @@ A simple authentication system built with **Next.js**, **MongoDB** and **Tailwin
 
 - User signup with password hashing (using **bcrypt**).
 - User login with authentication (using **JWT**).
-- Password reset functionality.
 - Email verification using **Mailtrap**.
 
 ## Tech Stack
