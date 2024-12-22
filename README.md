@@ -1,6 +1,6 @@
 # Next.js Authentication System
 
-A simple authentication system built with **Next.js**, **MongoDB** and **TailwindCSS**, and **Mailtrap**, featuring user signup, login, password reset, and email verification.
+A simple authentication system built with **Next.js**, **MongoDB** and **TailwindCSS**, and **Mailtrap**, featuring user signup, login, and email verification.
 
 ## Features
 
@@ -63,6 +63,14 @@ Feel free to reach out if you have any questions!
 
 - **GitHub**: [rajput-vishal01](https://github.com/rajput-vishal01)
 - **Email**: [askvishal.me@gmail.com](mailto:askvishal.me@gmail.com)
+
+## Caution
+
+-The video tutorial used for this project is outdated due to recent updates in Next.js. Additionally, due to an issue with Mailtrap, users are successfully registered in the database but may encounter a signup error.
+
+-However, since the user is registered in the database, they can still log in successfully.
+
+- **SOURCE**: TRUST ME BRO ...!!!
 
 ---
 
